@@ -21,6 +21,7 @@
     "typescript": "~4.7.0"
   },
   "dependencies": {
-    "firebase": "^9.22.0"
+    "@google-cloud/storage": "^6.10.1",
+    "firebase-admin": "^11.8.0"
   }
 }
